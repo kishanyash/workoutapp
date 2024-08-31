@@ -36,6 +36,6 @@ const styles = StyleSheet.create({
     backgroundColor:'#fff',
     padding:10,
     borderRadius: 10  ,
-    gap:7,
+    gap:5,
   },
 });
